@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440412565683",
+    "project_id": "decisive-forest-150818",
+    "storage_bucket": "decisive-forest-150818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440412565683:android:e247a4b8e449274c1e00c6",
+        "android_client_info": {
+          "package_name": "com.example.cloudmessagelibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440412565683-b4lhpsmd6qf15af230rahiuvqnjamhfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5cCetn4iPzCJxJjReWtG4acZeZ2mXBDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440412565683-b4lhpsmd6qf15af230rahiuvqnjamhfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
